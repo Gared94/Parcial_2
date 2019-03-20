@@ -1,0 +1,5 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Biblioteca\bin\Debug\Biblioteca.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Biblioteca\obj\Debug\Biblioteca.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Biblioteca\obj\Debug\Biblioteca.pdb

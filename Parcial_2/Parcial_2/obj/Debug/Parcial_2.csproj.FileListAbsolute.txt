@@ -1,0 +1,8 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Parcial_2\bin\Debug\Parcial_2.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Parcial_2\bin\Debug\Parcial_2.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Parcial_2\bin\Debug\Parcial_2.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Parcial_2\bin\Debug\Biblioteca.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Parcial_2\bin\Debug\Biblioteca.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Parcial_2\obj\Debug\Parcial_2.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Parcial_2\obj\Debug\Parcial_2.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial_2\Parcial_2\obj\Debug\Parcial_2.pdb
